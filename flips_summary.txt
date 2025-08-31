@@ -1,0 +1,32 @@
+d=1: +1GF -> 0 flips | -1GA -> 0 flips | best split +0GF/-0GA -> 0 flips
+d=2: +2GF -> 3 flips | -2GA -> 3 flips | best split +0GF/-2GA -> 3 flips
+d=3: +3GF -> 3 flips | -3GA -> 3 flips | best split +0GF/-3GA -> 3 flips
+d=4: +4GF -> 5 flips | -4GA -> 5 flips | best split +0GF/-4GA -> 5 flips
+
+=== Flips with +2 GF ===
+      date      opponent  goals_for  goals_against
+2025-03-01       Clemson          8              9
+2025-03-10 Johns Hopkins         13             14
+2025-05-11 Yale Bulldogs          8              9
+
+=== Flips with -2 GA ===
+      date      opponent  goals_for  goals_against
+2025-03-01       Clemson          8              9
+2025-03-10 Johns Hopkins         13             14
+2025-05-11 Yale Bulldogs          8              9
+
+=== Flips with +4 GF ===
+      date      opponent  goals_for  goals_against
+2025-03-01       Clemson          8              9
+2025-03-10 Johns Hopkins         13             14
+2025-04-02 Yale Bulldogs         10             13
+2025-04-12 Virginia Tech         11             14
+2025-05-11 Yale Bulldogs          8              9
+
+=== Flips with -4 GA ===
+      date      opponent  goals_for  goals_against
+2025-03-01       Clemson          8              9
+2025-03-10 Johns Hopkins         13             14
+2025-04-02 Yale Bulldogs         10             13
+2025-04-12 Virginia Tech         11             14
+2025-05-11 Yale Bulldogs          8              9
